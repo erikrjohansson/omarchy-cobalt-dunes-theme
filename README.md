@@ -4,6 +4,8 @@ Sand dunes at blue hour: deep cobalt shadows and one coral-lit crest. A dark the
 
 ![Cobalt Dunes: cliamp and btop over the dune wallpaper](preview.png)
 
+![Cobalt Dunes: the coral OMARCHY wordmark wallpaper](preview-wordmark.png)
+
 ## Install
 
 For **Omarchy 4 with Omarchy Shell**:
